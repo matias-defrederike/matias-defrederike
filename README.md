@@ -14,5 +14,5 @@ Eu sou o Mateus e essa dog :dog: que estou segurando mudou a minha forma de ver 
 ![](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<--- ### Certificações - Adicionar seção
+<!--- ### Certificações - Adicionar seção
 ---> 
