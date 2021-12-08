@@ -1,6 +1,7 @@
 # Hi there 👋
 
-Eu sou o Mateus e essa dog :dog: que estou segurando mudou a minha forma de ver o mundo e me inspirou a entrar na carreira DevOps, migrei recentemente para a área e por enquanto tenho foco somente na cloud Azure. Adoro codar principalmente em linguagens de script (Python, JavaScript, Bash e Powershell) e ensinar pessoas. 
+Eu sou o Mateus e essa dog :dog: que estou segurando mudou a minha forma de ver o mundo e me inspirou a entrar na carreira DevOps, migrei recentemente para a área e por enquanto tenho foco somente na cloud Azure. 
+Adoro codar principalmente em linguagens de script (Python, JavaScript, Bash e Powershell) e ensinar pessoas. 
 
 - 🤔 Aprendendo no momento: JavaScript, ServiceNow, Backend e REST API;
 - 💬 Me pergunte sobre Azure e GNU/Linux;
