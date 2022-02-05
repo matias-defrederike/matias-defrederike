@@ -1,20 +1,26 @@
-# Hi there 
-Eu sou o Mateus e essa dog :dog: que estou segurando mudou a minha forma de ver o mundo e me inspirou a entrar na carreira DevOps, migrei recentemente para a área e por enquanto tenho foco somente na cloud Azure. 
+# Hello there 
+I'm Mateus and this dog :dog: that I'm hugging changed the way I see the world and inspired me to start a DevOps career, I recently migrated to the area and for now, I focus only on the Azure cloud.
 
-Gosto de codar principalmente em linguagens de script (Python, JavaScript, Bash e Powershell) e ensinar pessoas. 
+I mainly enjoy coding in scripting languages: Python, JavaScript, Bash, Powershell. 
+Pretty like to teach people and build things on Azure, you can find me on [Linkedin](https://www.linkedin.com/in/mateus-ralves/). 
 
-- 🤔 Aprendendo no momento: JavaScript, ServiceNow, Backend e REST API;
-- 💬 Me pergunte sobre Azure e GNU/Linux;
-- ⚡ Fun Fact: Aficionado por One Piece :sailboat:
+- 🤔 Learning: JavaScript, ServiceNow, Backend, REST API, Containers and Kubernetes;
+- 💬 Ask me about: Azure and GNU/Linux;
+- ⚡ Fun Fact: HUGE fan of One Piece :sailboat:
 
-## Minhas habilidades
+## My Stack
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!--- ### Certificações - Adicionar seção
----> 
+### Certifications
+[AZ-900](https://www.credly.com/badges/dd5065d4-554c-41f7-93a8-21342e324f42?source=linked_in_profile) - Azure Fundamentals 
+
+[AZ-104](https://www.credly.com/badges/db3ffa7f-28f2-4891-8685-12f7cb011647?source=linked_in_profile) - Azure Administrator
+
+[AZ-400](https://www.credly.com/badges/37052349-c006-4251-8348-daaa9528f522) - Azure DevOps Engineer
+
+AZ-204 working on that...
