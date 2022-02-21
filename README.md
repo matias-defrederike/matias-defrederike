@@ -2,7 +2,7 @@
 I'm Mateus and this dog :dog: that I'm hugging changed the way I see the world and inspired me to start a DevOps career, I recently migrated to the area and for now, I focus only on the Azure cloud.
 
 I mainly enjoy coding in scripting languages: Python, JavaScript, Bash, Powershell. 
-Pretty like to teach people and build things on Azure, you can find me on [Linkedin](https://www.linkedin.com/in/mateus-ralves/). 
+I really enjoy teaching people and building things on Azure, you can find me on [Linkedin](https://www.linkedin.com/in/mateus-ralves/). 
 
 - 🤔 Learning: JavaScript, ServiceNow, Backend, REST API, Containers and Kubernetes;
 - 💬 Ask me about: Azure and GNU/Linux;
