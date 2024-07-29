@@ -5,8 +5,8 @@ I mainly enjoy coding in scripting languages: Python, JavaScript, Bash, Powershe
 
 I really enjoy teaching people and building things on Azure, you can find me on [Linkedin](https://www.linkedin.com/in/mateus-ralves/). 
 
-- 🤔 Learning: JavaScript, ServiceNow, Backend, REST API, Containers and Kubernetes;
-- 💬 Ask me about: Azure and GNU/Linux;
+- 🤔 Learning: JavaScript, Backend, REST API, Containers and Kubernetes;
+- 💬 Ask me about: AWS, Azure and GNU/Linux;
 - ⚡ Fun Fact: HUGE fan of One Piece :sailboat:
 
 ## My Stack
