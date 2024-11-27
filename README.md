@@ -16,7 +16,7 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 ---
 <center>
 <figure>
-  <img src="./img/fm.GIF" alt="drawing" width="300"/>
+  <img src="./img/fm.gif" alt="drawing" width="300"/>
   <figcaption>My two treasures</figcaption>
 </figure>
 </center>
