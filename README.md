@@ -4,9 +4,17 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 
 - 🏢 Building and improving cloud environments in [EBANX](https://www.ebanx.com/en/)
 - 🔧 Love working with: AWS, Azure, `.js`, `.py`, `.sh`, `.ps1`, `.tf`, `.json`, `.yaml` and containers, lots of containers
-- 📖 Learning more and studying: Open Source, k8s, terraform
+- 📖 Learning more and studying: Open Source, terraform and CKA
 - 💬 Ping me about: Cloud environments, mentorship, IT certifications and One Piece ⛵
 - 😄 Interests: Infra as Code, Container orchestration, dogs and One Piece ⛵
+
+#### Badges and IT certifications 🏆
+<img src="./img/az-900.png" alt="drawing" width="40"/>
+<img src="./img/az-104.png" alt="drawing" width="40"/>
+<img src="./img/az-204.png" alt="drawing" width="40"/>
+<img src="./img/az-400.png" alt="drawing" width="40"/>
+<img src="./img/aws-arch.png" alt="drawing" width="40"/>
+<img src="./img/aws-dev.png" alt="drawing" width="40"/>
 
 
 #### Find me around the web 🌎
@@ -18,8 +26,4 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
   <img src="./img/fm.gif" alt="drawing" width="300"/>
   <figcaption>My two treasures 🐶🐶 </figcaption>
 </figure>
-
-<!-- <img src="/img/fm.gif" alt="drawing" width="300"/> -->
-
-<!-- <img src="/img/fm.gif" alt="drawing" style="width:200px;"/> -->
 
