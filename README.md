@@ -14,12 +14,10 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 - 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/mateusfj?si=e11c80851f484d90) 
 
 ---
-<center>
 <figure>
   <img src="./img/fm.gif" alt="drawing" width="300"/>
-  <figcaption>My two treasures</figcaption>
+  <figcaption>My two treasures 🐶🐶 </figcaption>
 </figure>
-</center>
 
 <!-- <img src="/img/fm.gif" alt="drawing" width="300"/> -->
 
