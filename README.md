@@ -9,13 +9,14 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 - 😄 Interests: Infra as Code, Container orchestration, dogs and One Piece ⛵
 
 #### Badges and IT certifications 🏆
-<img src="./img/az-900.png" alt="drawing" width="40"/>
-<img src="./img/az-104.png" alt="drawing" width="40"/>
-<img src="./img/az-204.png" alt="drawing" width="40"/>
-<img src="./img/az-400.png" alt="drawing" width="40"/>
-<img src="./img/aws-arch.png" alt="drawing" width="40"/>
-<img src="./img/aws-dev.png" alt="drawing" width="40"/>
-
+<div style="text-align: center;">
+  <img src="./img/az-900.png" alt="drawing" width="40" style="display: inline-block;"/>
+  <img src="./img/az-104.png" alt="drawing" width="40" style="display: inline-block;"/>
+  <img src="./img/az-204.png" alt="drawing" width="40" style="display: inline-block;"/>
+  <img src="./img/az-400.png" alt="drawing" width="40" style="display: inline-block;"/>
+  <img src="./img/aws-arch.png" alt="drawing" width="40" style="display: inline-block;"/>
+  <img src="./img/aws-dev.png" alt="drawing" width="40" style="display: inline-block;"/>
+</div>
 
 #### Find me around the web 🌎
 - 💼 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/mateus-ralves/)
