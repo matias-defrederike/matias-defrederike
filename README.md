@@ -13,4 +13,15 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 - 💼 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/mateus-ralves/)
 - 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/mateusfj?si=e11c80851f484d90) 
 
-![Alt Text](./fm.GIF)
+---
+<center>
+<figure>
+  <img src="./img/fm.GIF" alt="drawing" width="300"/>
+  <figcaption>My two treasures</figcaption>
+</figure>
+</center>
+
+<!-- <img src="/img/fm.gif" alt="drawing" width="300"/> -->
+
+<!-- <img src="/img/fm.gif" alt="drawing" style="width:200px;"/> -->
+
