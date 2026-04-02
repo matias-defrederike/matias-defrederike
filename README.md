@@ -10,12 +10,12 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 
 #### Badges and IT certifications 🏆
 <div style="text-align: center;">
-  <img src="./img/az-900.png" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-104.png" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-204.png" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-400.png" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/aws-arch.png" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/aws-dev.png" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/az-900.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/az-104.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/az-204.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/az-400.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/aws-arch.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/aws-dev.avif" alt="drawing" width="50" style="display: inline-block;"/>
   <img src="./img/cka.avif" alt="drawing" width="50" style="display: inline-block;"/>
   
 </div>
@@ -26,7 +26,7 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 
 ---
 <figure>
-  <img src="./img/fm.gif" alt="drawing" width="300"/>
+  <img src="./img/fm.avif" alt="drawing" width="300"/>
   <figcaption>My two treasures 🐶🐶 </figcaption>
 </figure>
 
