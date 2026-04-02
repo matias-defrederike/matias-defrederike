@@ -3,8 +3,8 @@
 I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
 
 - 🏢 Building and improving cloud environments in [EBANX](https://www.ebanx.com/en/)
-- 🔧 Love working with: AWS, Azure, `.js`, `.py`, `.sh`, `.ps1`, `.tf`, `.json`, `.yaml` and containers, lots of containers
-- 📖 Learning more and studying: Open Source, terraform and CKA
+- 🔧 Love working with: AWS, Azure, Kubernetes, `.js`, `.py`, `.sh`, `.ps1`, `.tf`, `.json`, `.yaml` and containers, lots of containers
+- 📖 Learning more and studying: Open Source, Terraform, and Cloud-Native Security.
 - 💬 Ping me about: Cloud environments, mentorship, IT certifications and One Piece ⛵
 - 😄 Interests: Infra as Code, Container orchestration, dogs and One Piece ⛵
 
@@ -16,6 +16,8 @@ I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
   <img src="./img/az-400.png" alt="drawing" width="50" style="display: inline-block;"/>
   <img src="./img/aws-arch.png" alt="drawing" width="50" style="display: inline-block;"/>
   <img src="./img/aws-dev.png" alt="drawing" width="50" style="display: inline-block;"/>
+  <img src="./img/cka.avif" alt="drawing" width="50" style="display: inline-block;"/>
+  
 </div>
 
 #### Find me around the web 🌎
