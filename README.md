@@ -1,32 +1,44 @@
-# Hey I'm Mateus...
+# Hey, I'm Mateus! ☁️
 
-I'm a DevOps Engineer and doggo enthusiast **based in Brazil South**
+DevOps Engineer | Cloud Enthusiast | Doggo guy
 
-- 🏢 Building and improving cloud environments in [EBANX](https://www.ebanx.com/en/)
-- 🔧 Love working with: AWS, Azure, Kubernetes, `.js`, `.py`, `.sh`, `.ps1`, `.tf`, `.json`, `.yaml` and containers, lots of containers
-- 📖 Learning more and studying: Open Source, Terraform, and Cloud-Native Security.
-- 💬 Ping me about: Cloud environments, mentorship, IT certifications and One Piece ⛵
-- 😄 Interests: Infra as Code, Container orchestration, dogs and One Piece ⛵
+I'm a DevOps Engineer based in South Brazil, passionate about automating infrastructure, building secure cloud-native environments, and scaling distributed systems.
 
-#### Badges and IT certifications 🏆
-<div style="text-align: center;">
-  <img src="./img/az-900.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-104.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-204.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/az-400.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/aws-arch.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/aws-dev.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  <img src="./img/cka.avif" alt="drawing" width="50" style="display: inline-block;"/>
-  
-</div>
+- 💼 Currently building and improving cloud environments at EBANX.
 
-#### Find me around the web 🌎
-- 💼 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/mateus-ralves/)
-- 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/mateusfj?si=e11c80851f484d90) 
+- 🌱 Continuously learning: Open Source, Terraform, and Cloud-Native Security.
 
----
-<figure>
-  <img src="./img/fm.avif" alt="drawing" width="300"/>
-  <figcaption>My two treasures 🐶🐶 </figcaption>
-</figure>
+- 💬 Ping me about: Cloud architecture, IT mentorship, certifications, or One Piece ⛵
 
+## 🚀 Technologies & Tools
+
+- Cloud Providers: AWS • Microsoft Azure
+- Containers & Orchestration: Kubernetes (K8s) • Docker
+- Infrastructure as Code (IaC) & Automation: Terraform • Ansible • CI/CD Pipelines
+- Scripting & Languages: Python • Bash • PowerShell • JavaScript • JSON / YAML
+
+## 🏆 Badges & Certifications
+
+<p align="center">
+<img src="./img/az-900.avif" alt="AZ-900" width="60" />&nbsp;&nbsp;
+<img src="./img/az-104.avif" alt="AZ-104" width="60" />&nbsp;&nbsp;
+<img src="./img/az-204.avif" alt="AZ-204" width="60" />&nbsp;&nbsp;
+<img src="./img/az-400.avif" alt="AZ-400" width="60" />
+<br /><br />
+<img src="./img/aws-arch.avif" alt="AWS Solutions Architect" width="60" />  
+<img src="./img/aws-dev.avif" alt="AWS Developer" width="60" />
+<br /><br />
+<img src="./img/cka.avif" alt="CKA" width="60" /> </p>
+
+## 🌎 Let's Connect
+
+- 💼 Professional: Connect with me on LinkedIn
+- 🎧 Vibes: Listen to my favorite jams on Spotify
+
+### Beyond the Code 🐶
+
+When I'm not configuring clusters or writing Terraform modules, you can find me watching One Piece or hanging out with my two treasures:
+
+<p align="left">
+<img src="./img/fm.avif" alt="My two dogs" width="300" style="border-radius: 8px;"/>
+</p>
