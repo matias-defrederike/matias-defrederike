@@ -1,4 +1,4 @@
-# Hey, I'm Mateus! ☁️
+# Hey, I'm Mateus or you can call me matias... ☁️
 
 DevOps Engineer | Cloud Enthusiast | Doggo guy
 
@@ -40,12 +40,12 @@ I'm a DevOps Engineer based in South Brazil, passionate about automating infrast
 - 💼 Professional: [Connect with me on LinkedIn](https://www.linkedin.com/in/mateus-ralves/)
 - 🎧 Vibes: Listen to my favorite jams on [Spotify](https://open.spotify.com/user/mateusfj?si=e11c80851f484d90)
 
-### Beyond the Code 🐶
+## 🐶 Beyond the Code
 
-I'm a [Azure Global Speaker](https://globalazure.net/speakers) and you can find my [Azure talks here](https://github.com/matias-defrederike/azure-user-groups)
+- Sometimes I write tech articles [here](https://matias-defrederike.github.io/tech-articles/).
+- I'm an [Azure Global Speaker](https://globalazure.net/speakers) and you can find my [Azure talks here](https://github.com/matias-defrederike/azure-user-groups).
+- When I'm not configuring clusters or writing Terraform modules, you can find me watching One Piece, playing video games or hanging out with my two treasures 🐶🐶
 
-When I'm not configuring clusters or writing Terraform modules, you can find me watching One Piece, playing video games or hanging out with my two treasures 🐶🐶
-
-<p align="left">
-<img src="./img/fm.avif" alt="My two dogs" width="300" style="border-radius: 8px;"/>
-</p>
+    <p align="left">
+    <img src="./img/fm.avif" alt="My two dogs" width="300" style="border-radius: 8px;"/>
+    </p>
